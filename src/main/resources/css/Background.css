@@ -1,0 +1,20 @@
+/* 
+    Created on : 20-sep-2018, 11:56:50
+    Author     : Benito Palacios
+*/
+
+#AnchorPane, #mainTemplate {
+    -fx-background-color: linear-gradient(#8796e9, #3366ff);
+}
+
+#LoginPane {
+    -fx-background-color: linear-gradient(to bottom, #D3D3D3, #D3D3D3);
+    -fx-border-color: #A9D0F5;
+    -fx-border-size: 3pt;
+}
+
+#DataPane {
+    -fx-background-color: linear-gradient(to bottom, #D3D3D3, #D3D3D3);
+    -fx-border-color: #A9D0F5;
+    -fx-border-size: 3pt;
+}
